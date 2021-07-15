@@ -1,6 +1,3 @@
-<!--
-**jiheenim27/jiheenim27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi, I'm Jihee Shin! 👋</h1>
 <h3 align="center">A CS student from Korea</h3>
 
