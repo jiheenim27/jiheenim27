@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jihee Shin! 👋</h1>
+<h1 align="center">Hi, I'm Jihee Shin!👋</h1>
 <h3 align="center">A CS student from Korea</h3>
 
 - 🌱 I’m currently learning **DBMS, MySQL, NoSQL**
