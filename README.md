@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jihee Shin!👋</h1>
 <h3 align="center">🎄</h3>
 
-- 🌱 I’m currently learning **DBMS, MySQL, NoSQL**
+- 🌱 I’m currently learning **HTML, CSS, SCSS, JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
